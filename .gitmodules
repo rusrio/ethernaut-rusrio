@@ -1,0 +1,3 @@
+[submodule "level1-fallback/lib/forge-std"]
+	path = level1-fallback/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
