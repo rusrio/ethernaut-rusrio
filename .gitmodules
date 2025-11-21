@@ -7,3 +7,6 @@
 [submodule "level3-coinflip/lib/forge-std"]
 	path = level3-coinflip/lib/forge-std
 	url = https://github.com/foundry-rs/forge-std
+[submodule "level4-telephone/lib/forge-std"]
+	path = level4-telephone/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
