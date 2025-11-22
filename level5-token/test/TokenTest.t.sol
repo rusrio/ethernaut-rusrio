@@ -18,7 +18,7 @@ contract TokenTest is Test {
         console.log("Alice balance: ", token.balanceOf(alice));
     }
 
-    function test_Increment() public {
+    function test_ClaimOwnership() public {
         vm.prank(alice);
         console.log("---Alice transfering 30 tokens to bob---");
         token.transfer(bob, 30);
