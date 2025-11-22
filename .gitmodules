@@ -10,3 +10,6 @@
 [submodule "level4-telephone/lib/forge-std"]
 	path = level4-telephone/lib/forge-std
 	url = https://github.com/foundry-rs/forge-std
+[submodule "lib/forge-std"]
+	path = level5-token/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
