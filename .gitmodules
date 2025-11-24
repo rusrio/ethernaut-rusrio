@@ -17,5 +17,5 @@
 	path = level6-delegation/lib/forge-std
 	url = https://github.com/foundry-rs/forge-std
 [submodule "lib/forge-std"]
-	path = level7-force/lib/forge-std
+	path = level8-vault/lib/forge-std
 	url = https://github.com/foundry-rs/forge-std
