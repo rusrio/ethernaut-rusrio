@@ -23,5 +23,5 @@
 	path = level8-vault/lib/forge-std
 	url = https://github.com/foundry-rs/forge-std
 [submodule "lib/forge-std"]
-	path = level9-king/lib/forge-std
+	path = level10-reentrancy/lib/forge-std
 	url = https://github.com/foundry-rs/forge-std
