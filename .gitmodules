@@ -28,6 +28,9 @@
 [submodule "level10-reentracy/lib/forge-std"]
 	path = level10-reentrancy/lib/forge-std
 	url = https://github.com/foundry-rs/forge-std
-[submodule "lib/forge-std"]
+[submodule "level11-elevator/lib/forge-std"]
 	path = level11-elevator/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
+[submodule "level12-privacy/lib/forge-std"]
+	path = level12-privacy/lib/forge-std
 	url = https://github.com/foundry-rs/forge-std
