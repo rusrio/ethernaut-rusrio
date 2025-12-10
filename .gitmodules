@@ -37,6 +37,4 @@
 [submodule "level13-gatekeeperOne/lib/forge-std"]
 	path = level13-gatekeeperOne/lib/forge-std
 	url = https://github.com/foundry-rs/forge-std
-[submodule "erc6909-amm/lib/forge-std"]
-	path = erc6909-amm/lib/forge-std
-	url = https://github.com/foundry-rs/forge-std
+
