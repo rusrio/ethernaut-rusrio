@@ -38,3 +38,9 @@
 	path = level13-gatekeeperOne/lib/forge-std
 	url = https://github.com/foundry-rs/forge-std
 
+[submodule "level14-naughtcoin/lib/forge-std"]
+	path = level14-naughtcoin/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
+[submodule "level14-naughtcoin/lib/openzeppelin-contracts"]
+	path = level14-naughtcoin/lib/openzeppelin-contracts
+	url = https://github.com/OpenZeppelin/openzeppelin-contracts
